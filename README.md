@@ -72,7 +72,7 @@ class Devansh:
 
 <div align="center">
   <!-- Footer -->
-  <a href="https://www.linkedin.com/in/devansh-sharma">
+  <a href="https://www.linkedin.com/in/devansh-sharma-742a99337/">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devanshsanjeevsharma@gmail.com">
