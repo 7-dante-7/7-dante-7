@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Typing SVG: Dynamic, no setup needed -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Devansh+Sharma;Incoming+Advisory+Intern+@+PwC;Cyber+Security+|+Data+Risk;Building+the+Future+🚀&font=Fira+Code&center=true&width=500&height=50&color=33ccff&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Devansh+Sharma;Incoming+Advisory+Intern+@+PwC;Cyber+Security+|+Tech+Risk;Building+Secure+AI+Solutions+🚀&font=Fira+Code&center=true&width=500&height=50&color=33ccff&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,12 +22,13 @@
 ```python
 class Devansh:
     def __init__(self):
-        self.role = "Advisory Intern @ PwC"
-        self.location = "Bengaluru / Dehradun"
-        self.loves = ["Python", "Automation", "Music", "CyberSec"]
+        self.role = "Advisory Intern @ PwC (Cyber Risk)"
+        self.location = "Dehradun, India"
+        self.skills = ["Machine Learning", "Cyber Security", "Computer Vision"]
+        self.hobbies = ["Gaming 🎮", "Anime ⛩️", "Movies 🍿"]
         
     def current_status(self):
-        return "Loading Advisory Start... 99%"
+        return "Building Smart Systems & Exploring New Perspectives"
 ```
 
 ---
@@ -35,15 +36,36 @@ class Devansh:
 ### 🛠️ Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,linux,git,vscode,docker,aws,firebase&theme=dark" />
+  <!-- Strict Resume Match + Node.js -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,tensorflow,pytorch,opencv,js,nodejs,html,css,mysql,git,vscode,linux,eclipse&theme=dark" />
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🕵️ Image Steganography** | Cybersecurity tool to hide encrypted messages within images. | `Python` `Cryptography` |
+| **🧠 Brain Tumor Detection** | Deep Learning model for classifying tumors in MRI scans. | `TensorFlow` `CNN` `NumPy` |
+| **😴 Drowsiness Detection** | Real-time driver safety system using facial landmarks. | `OpenCV` `Dlib` `Python` |
+| **🖼️ Image Classification** | High-accuracy CNN trained on CIFAR-10 & MNIST. | `Keras` `Deep Learning` |
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🎖️ **PwC Cyber Risk & Regulatory Launchpad**
+- 🧩 **Solved 200+ Algorithmic Challenges** (Competitive Coding)
+- 📜 **Machine Learning with Python** (Coursera)
+- 💻 **C++ Programming: Beginning to Beyond** (Udemy)
 
 ---
 
 ### 📊 The Numbers
 
 <div align="center">
-  <!-- Dynamic Stats: Updates automatically -->
+  <!-- Dynamic Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=7-dante-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-dante-7&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
@@ -51,7 +73,7 @@ class Devansh:
 <br>
 
 <div align="center">
-  <!-- Streak Stats: Shows your daily grind -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7-dante-7&theme=tokyonight&hide_border=true" />
 </div>
 
