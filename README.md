@@ -1,6 +1,5 @@
 <!-- 
   ✨ DEVANSH'S PROFILE ✨
-  Copy everything below this line into your GitHub repository named '7-dante-7'
 -->
 
 <div align="center">
@@ -65,16 +64,8 @@ class Devansh:
 ### 📊 The Numbers
 
 <div align="center">
-  <!-- Dynamic Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=7-dante-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-dante-7&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7-dante-7&theme=tokyonight&hide_border=true" />
+  <!-- Metrics: Replaces broken github-readme-stats -->
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
