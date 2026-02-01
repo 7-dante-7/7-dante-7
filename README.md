@@ -16,19 +16,13 @@
 
 ---
 
-### ⚡ The Vibe
+### 🖥️ System Status
 
-```python
-class Devansh:
-    def __init__(self):
-        self.role = "Advisory Intern @ PwC (Cyber Risk)"
-        self.location = "Dehradun, India"
-        self.skills = ["Machine Learning", "Cyber Security", "Computer Vision"]
-        self.hobbies = ["Gaming 🎮", "Anime ⛩️", "Movies 🍿"]
-        
-    def current_status(self):
-        return "Building Smart Systems & Exploring New Perspectives"
-```
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E+root%407-dante-7%3A~%23+init+sequence;%3E+Loading+User+Profile...+%5BOK%5D;%3E+Role:+Advisory+Intern+%40+PwC+(Cyber);%3E+Stack:+%5BML,+Computer+Vision,+SecOps%5D;%3E+Mission:+Securing+Next-Gen+AI+Systems;%3E+System+Status:+ONLINE+Rates+Normal&font=Fira+Code&center=true&width=500&height=150&color=00ff00&background=0D1117&vCenter=true&pause=1000&size=16" alt="Terminal" />
+  </a>
+</div>
 
 ---
 
