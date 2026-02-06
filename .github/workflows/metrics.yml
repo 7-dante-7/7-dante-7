@@ -30,7 +30,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           
-          plugin_streak: yes
+          # plugin_streak: yes
           # plugin_streak_mode: weekly
           
           plugin_isocalendar: yes
